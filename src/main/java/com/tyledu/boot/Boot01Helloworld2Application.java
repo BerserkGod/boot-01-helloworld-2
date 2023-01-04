@@ -16,5 +16,6 @@ public class Boot01Helloworld2Application {
         System.out.println("合并测试---master");
         System.out.println("合并测试---hotfix 第二次");
         System.out.println("push test");
+        System.out.println("push by ssh");
     }
 }
