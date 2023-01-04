@@ -13,6 +13,7 @@ public class Boot01Helloworld2Application {
         System.out.println(run.getApplicationName());
         System.out.println("hello git3");
         System.out.println("合并测试---hotfix");
+        System.out.println("合并测试---master");
     }
 
 }
