@@ -10,6 +10,7 @@ public class Boot01Helloworld2Application {
 
     public static void main(String[] args) {
         ConfigurableApplicationContext run = SpringApplication.run(Boot01Helloworld2Application.class, args);
+        System.out.println(run.getApplicationName());
     }
 
 }
