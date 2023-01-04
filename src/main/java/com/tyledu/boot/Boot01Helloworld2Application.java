@@ -14,6 +14,6 @@ public class Boot01Helloworld2Application {
         System.out.println("hello git3");
         System.out.println("合并测试---hotfix");
         System.out.println("合并测试---master");
+        System.out.println("合并测试---hotfix 第二次");
     }
-
 }
