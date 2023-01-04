@@ -1,0 +1,31 @@
+person:
+  userName: "zhang \n san"
+# 单引号原样输出 双引号识别转义字符
+  boss: true
+  birth: 2019/12/09
+  age: 23
+  pet:
+    name: dio
+    weight: 23.5
+  #interests: [唱,跳,rap,篮球]
+  interests:
+    - 唱
+    - 跳
+    - rap
+    - 篮球
+  animal: [阿猫,阿狗]
+#  score:
+#    english: 80
+#    math: 90
+  score: {english: 80,math: 90}
+  salarys:
+    - 9999.98
+    - 10000
+  allPets:
+    sick:
+      - {name: 阿狗,weight: 20}
+      - name: 阿猫
+        weight: 30
+      - name: 阿虫
+        weight: 5
+    health: [{name: 阿牛,weight: 100},{name: 阿羊,weight: 50}]
